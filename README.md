@@ -13,7 +13,7 @@
 
 ### Status: *IN PROGRESS*
 
-<div algin="center">
+<div align="center">
 
 ![img.png](img.png)
 
