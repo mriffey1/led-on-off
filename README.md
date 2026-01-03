@@ -15,6 +15,8 @@ http://ledsign.local/off<br>
 http://ledsign.local/toggle<br>
 http://ledsign.local/status<br>
 
+![img.png](img.png)
+
 This stream deck plugin will allow you to press a button to open the website to send the status to turn on or off.
 
 #### Both portions of the project are in progress.

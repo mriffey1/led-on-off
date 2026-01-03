@@ -18,17 +18,15 @@
       ]
     },
     {
-      "Name": "Counter2",
+      "Name": "LED ON/OFF",
       "UUID": "com.megan-codes.led.toggle",
       "Icon": "imgs/actions/toggle/icon",
       "Tooltip": "Displays a count, which increments by one on press.",
       "PropertyInspectorPath": "ui/toggle-website.html",
       "Controllers": ["Keypad"],
       "States": [
-        {
-          "Image": "imgs/actions/toggle/key",
-          "TitleAlignment": "middle"
-        }
+        { "Image": "imgs/siteA.svg" },
+        { "Image": "imgs/siteB.svg" }
       ]
     }
 
