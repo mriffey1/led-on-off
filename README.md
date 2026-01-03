@@ -4,9 +4,9 @@
 
 This is a Stream Deck plugin that allows you to go to a website such as http://localhost/on and http://localhost/off to turn on/off anything that is connected to an SBC or Microprocessor.
 
-This project will coensign with using an ESP32 (to create the web server), a relay module, and a battery pack.
+This project will be used alongside with using an ESP32 (to create the web server), a relay module, and a battery pack.
 
-My LED sign is USB-A powered but I want the ability to be able to turn it on and off wirelessly. 
+My LED sign is USB-A powered, but I want the ability to be able to turn it on and off wirelessly. 
 
 The ESP32 and the relay will cut and allow power to the sign using a web server with something like:
 
