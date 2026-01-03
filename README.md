@@ -1,4 +1,4 @@
-# LED ON/OFF
+# LED ON/OFF - A Stream Deck Plugin
 
 ### Status: *IN PROGRESS*
 
