@@ -8,17 +8,13 @@
 
 <hr>
 
-#### Both portions of the project are in progress.
+> [!WARNING]
+> Both portions of the project are in progress.<br>
+> This project still needs to be refactored and cleaned up.<br>
+> <b>USE AT YOUR OWN RISK</b>
 
-#### This project still needs to be refactored and cleaned up.
-
-### USE AT YOUR OWN RISK
 
 <hr>
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
 This is a Stream Deck plugin that allows you to go to a website such as http://localhost/on and http://localhost/off to turn on/off anything that is connected to an SBC or Microprocessor.
 
 This project will be used alongside an ESP32 (to create the web server), a relay module, and a battery pack.
