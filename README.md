@@ -3,7 +3,6 @@
 # LED ON/OFF - A Stream Deck Plugin
 </div>
 
-<hr>
 
 > [!WARNING]
 > Both portions of the project are in progress.</br>
@@ -15,6 +14,7 @@
 ### Status: *IN PROGRESS*
 
 <div algin="center">
+
 ![img.png](img.png)
 
 </div>
