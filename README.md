@@ -6,6 +6,19 @@
 ![img.png](img.png)
 </div>
 
+<hr>
+
+#### Both portions of the project are in progress.
+
+#### This project still needs to be refactored and cleaned up.
+
+### USE AT YOUR OWN RISK
+
+<hr>
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
 This is a Stream Deck plugin that allows you to go to a website such as http://localhost/on and http://localhost/off to turn on/off anything that is connected to an SBC or Microprocessor.
 
 This project will be used alongside an ESP32 (to create the web server), a relay module, and a battery pack.
@@ -22,9 +35,3 @@ http://ledsign.local/status<br>
 
 
 This stream deck plugin will allow you to press a button to open the website to send the status to turn on or off.
-
-#### Both portions of the project are in progress.
-
-#### This project still needs to be refactored and cleaned up.
-
-### USE AT YOUR OWN RISK
