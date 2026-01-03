@@ -1,6 +1,10 @@
-# LED ON/OFF - A Stream Deck Plugin
+<div align="center">
 
+# LED ON/OFF - A Stream Deck Plugin
 ### Status: *IN PROGRESS*
+
+![img.png](img.png)
+</div>
 
 This is a Stream Deck plugin that allows you to go to a website such as http://localhost/on and http://localhost/off to turn on/off anything that is connected to an SBC or Microprocessor.
 
@@ -15,7 +19,7 @@ http://ledsign.local/off<br>
 http://ledsign.local/toggle<br>
 http://ledsign.local/status<br>
 
-![img.png](img.png)
+
 
 This stream deck plugin will allow you to press a button to open the website to send the status to turn on or off.
 
