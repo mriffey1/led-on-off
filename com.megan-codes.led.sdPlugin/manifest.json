@@ -1,0 +1,60 @@
+{
+  "Name": "LED ON/OFF",
+  "Version": "0.1.0.0",
+  "Author": "Megan Riffey",
+  "Actions": [
+    {
+      "Name": "Counter",
+      "UUID": "com.megan-codes.led.increment",
+      "Icon": "imgs/actions/counter/icon",
+      "Tooltip": "Displays a count, which increments by one on press.",
+      "PropertyInspectorPath": "ui/increment-counter.html",
+      "Controllers": ["Keypad"],
+      "States": [
+        {
+          "Image": "imgs/actions/counter/key",
+          "TitleAlignment": "middle"
+        }
+      ]
+    },
+    {
+      "Name": "Counter2",
+      "UUID": "com.megan-codes.led.toggle",
+      "Icon": "imgs/actions/toggle/icon",
+      "Tooltip": "Displays a count, which increments by one on press.",
+      "PropertyInspectorPath": "ui/toggle-website.html",
+      "Controllers": ["Keypad"],
+      "States": [
+        {
+          "Image": "imgs/actions/toggle/key",
+          "TitleAlignment": "middle"
+        }
+      ]
+    }
+
+  ],
+  "Category": "LED ON/OFF",
+  "CategoryIcon": "imgs/plugin/category-icon",
+  "CodePath": "bin/plugin.js",
+  "Description": "test",
+  "Icon": "imgs/plugin/marketplace",
+  "SDKVersion": 3,
+  "Software": {
+    "MinimumVersion": "6.9"
+  },
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "12"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Nodejs": {
+    "Version": "20",
+    "Debug": "enabled"
+  },
+  "UUID": "com.megan-codes.led"
+}
