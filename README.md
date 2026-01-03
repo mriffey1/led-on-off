@@ -5,8 +5,8 @@
 
 
 > [!WARNING]
-> Both portions of the project are in progress.</br>
-> This project still needs to be refactored and cleaned up.</br>
+> Both portions of the project are <i>in progress</i>.</br>
+> <u>This project still needs to be refactored and cleaned up.</u></br>
 > <b>USE AT YOUR OWN RISK</b>
 
 <hr>
