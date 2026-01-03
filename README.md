@@ -1,4 +1,4 @@
-<center>LED ON/OFF</center>
+# LED ON/OFF
 
 ### Status: *IN PROGRESS*
 
